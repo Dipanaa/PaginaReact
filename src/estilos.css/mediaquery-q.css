@@ -1,0 +1,24 @@
+@media only screen and (max-width: 990px){
+    .ocultar{
+        display: none;
+    }
+
+    .ocultar-d{
+        display: block;
+    }
+    .imagenes-1{
+        background-image: url("/src/imagenes/caballero\ apuntandooooooooo.png");
+        background-position: center;
+        background-size: cover;
+    }
+    .imagenes-2{
+        background-image: url("/src/imagenes/caballeros\ del\ abrazo.jpg");
+        background-position: center;
+        background-size: cover;
+    }
+    .imagenes-3{
+        background-image: url("/src/imagenes/caballero\ delivery.jpg");
+        background-position: center;
+        background-size: cover;
+    }    
+}
